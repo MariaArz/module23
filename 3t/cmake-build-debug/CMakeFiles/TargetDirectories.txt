@@ -1,0 +1,3 @@
+C:/Users/User/OneDrive/Desktop/C++/module23/3t/cmake-build-debug/CMakeFiles/3t.dir
+C:/Users/User/OneDrive/Desktop/C++/module23/3t/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/OneDrive/Desktop/C++/module23/3t/cmake-build-debug/CMakeFiles/rebuild_cache.dir
